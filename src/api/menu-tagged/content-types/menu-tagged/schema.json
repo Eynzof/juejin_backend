@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "menu_taggeds",
+  "info": {
+    "singularName": "menu-tagged",
+    "pluralName": "menu-taggeds",
+    "displayName": "MenuTagged"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "data": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "json",
+      "required": true
+    }
+  }
+}
